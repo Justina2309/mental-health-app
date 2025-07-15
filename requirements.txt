@@ -1,7 +1,10 @@
-streamlit
+streamlit==1.26.0
 sentence-transformers==2.2.2
 transformers==4.28.1
 scikit-learn
 xgboost
 numpy
 joblib
+tqdm
+torch==2.0.0
+torchvision==0.15.1
